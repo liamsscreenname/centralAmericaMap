@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [[ -86.877,21.041 ], [-87.077, 20.624]]
+    },
+    "properties": {
+    "name":"Cancun Airport to Playa Del Carmen",
+    "cost":162,
+    "currency":"M$",
+    "duration":"01:00",
+    "frequency":"frequent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [[ -87.077, 20.624 ], [-87.465, 20.211]]
+    },
+    "properties": {
+    "name":"Playa Del Carmen to Tulum",
+    "cost":62,
+    "currency":"M$",
+    "duration":"01:00",
+    "frequency":"frequent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [[ -87.465,20.211 ], [-88.293, 18.519]]
+    },
+    "properties": {
+    "name":"Tulum to Chetumal",
+    "cost":221,
+    "currency":"M$",
+    "duration":"03:30",
+    "frequency":"frequent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [[ -87.465,20.211 ], [-87.710, 18.715]]
+    },
+    "properties": {
+    "name":"Tulum to Mahahual",
+    "cost":240,
+    "currency":"M$",
+    "duration":"02:30",
+    "frequency":"2: 9AM, 5:45PM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+       "coordinates":  [[ -87.465,20.211 ],[-88.195, 17.494]]
+    },
+    "properties": {
+    "name":"Tulum to Belize City",
+    "cost":510,
+    "currency":"M$",
+    "duration":"05:45",
+    "frequency":"1: 12:45AM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+       "coordinates":  [[ -88.189,17.495 ], [-88.026, 17.742]]
+    },
+    "properties": {
+    "name":"Belize City to Caye Caulker (Ferry)",
+    "cost":19,
+    "currency":"BZ$",
+    "duration":"00:45",
+    "frequency":"5: 8AM, 10:30AM, 1:30PM, 3PM, 5PM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [[ -88.195,17.494 ],[-89.090, 17.160]]
+    },
+    "properties": {
+    "name":"Belize City to San Ignacio",
+    "cost":9,
+    "currency":"BZ$",
+    "duration":"02:00",
+    "frequency":"frequent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+       "coordinates":  [[ -89.09,17.16 ],[-89.167, 17.058]]
+    },
+    "properties": {
+    "name":"San Ignacio to Guatemala Border (Taxi)",
+    "cost":25,
+    "currency":"BZ$",
+    "duration":"00:30",
+    "frequency":"frequent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates": [ [ -89.167,17.058 ],[-89.902, 16.910]]
+    },
+    "properties": {
+    "name":"Melchor de Mencos to Flores",
+    "cost":55,
+    "currency":"Q",
+    "duration":"02:00",
+    "frequency":"1:?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+       "coordinates": [ [ -88.293,18.519 ], [-89.902, 16.910]]
+    },
+    "properties": {
+    "name":"Chetumal to Flores",
+    "cost":45,
+    "currency":"$",
+    "duration":"10:00",
+    "frequency":"1:6AM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+       "coordinates": [[ -89.902,16.91 ],[-89.633, 17.223]]
+    },
+    "properties": {
+    "name":"Flores to Tikal",
+    "cost":30,
+    "currency":"Q",
+    "duration":"01:15",
+    "frequency":"6: 6:30AM - 3PM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "LineString",
+       "coordinates":  [[ -89.902,16.91 ],[-90.562, 14.626]]
+    },
+    "properties": {
+    "name":"Flores to Guatemala City",
+    "cost":130,
+    "currency":"Q",
+    "duration":"08:30",
+    "frequency":"frequent"
+    }
+  }
+]
+}

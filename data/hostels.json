@@ -1,0 +1,8 @@
+{"type": "FeatureCollection", "features" : [
+{"type" : "Feature", "properties" : {"name" : "Hostelito", "website" : "http://www.google.com", "price" : "187", "currency" : "M$", "image" : "https://media-cdn.tripadvisor.com/media/photo-s/02/27/9d/50/hostelito-cozumel.jpg"}, "geometry" : {"type" : "Point", "coordinates" : [-86.948, 20.510]}},
+{"type" : "Feature", "properties" : {"name" : "Juan in a Million", "website" : "http://www.google.com", "price" : "24", "currency" : "B54$", "image" : "http://t-ec.bstatic.com/images/hotel/max1024x768/886/88630620.jpg"}, "geometry" : {"type" : "Point", "coordinates" : [-88.027, 17.741]}},
+{"type" : "Feature", "properties" : {"name" : "Tropicana Hostel", "website" : "http://www.google.com", "price" : "70", "currency" : "Q", "image" : "https://media-cdn.tripadvisor.com/media/photo-s/06/af/bb/cd/tropicana-hostel.jpg"}, "geometry" : {"type" : "Point", "coordinates" : [-90.736, 14.555]}},
+{"type" : "Feature", "properties" : {"name" : "Hostel Los Amigos", "website" : "http://www.google.com", "price" : "80", "currency" : "Q", "image" : "https://media-cdn.tripadvisor.com/media/photo-s/07/60/f6/10/youth-hostel-los-amigos.jpg"}, "geometry" : {"type" : "Point", "coordinates" : [-89.893, 16.930]}},
+{"type" : "Feature", "properties" : {"name" : "Casa Del Sol", "website" : "http://www.casadelsolhostels.com/", "price" : "180", "currency" : "M$", "image" : "http://www.adventurevacationinmexico.com/wp-content/uploads/2016/10/CasaDelSolTulum.jpg"}, "geometry" : {"type" : "Point", "coordinates" : [-87.469, 20.201]}}
+]
+}

@@ -1,0 +1,15 @@
+{"type": "FeatureCollection", "features" : [
+{"type" : "Feature", "properties" : {"name" : "Cancun Airport"}, "geometry" : {"type" : "Point", "coordinates" : [-86.877, 21.040]}},
+{"type" : "Feature", "properties" : {"name" : "Playa Del Carmen"}, "geometry" : {"type" : "Point", "coordinates" : [-87.077, 20.624]}},
+{"type" : "Feature", "properties" : {"name" : "Tulum"}, "geometry" : {"type" : "Point", "coordinates" : [-87.465, 20.211]}},
+{"type" : "Feature", "properties" : {"name" : "Chetumal"}, "geometry" : {"type" : "Point", "coordinates" : [-88.293, 18.519]}},
+{"type" : "Feature", "properties" : {"name" : "Belize City"}, "geometry" : {"type" : "Point", "coordinates" : [-88.195, 17.494]}},
+{"type" : "Feature", "properties" : {"name" : "Mahahual"}, "geometry" : {"type" : "Point", "coordinates" : [-87.710, 18.715]}},
+{"type" : "Feature", "properties" : {"name" : "Caye Caulkner"}, "geometry" : {"type" : "Point", "coordinates" : [-88.026, 17.742]}},
+{"type" : "Feature", "properties" : {"name" : "San Ignacio"}, "geometry" : {"type" : "Point", "coordinates" : [-89.090, 17.160]}},
+{"type" : "Feature", "properties" : {"name" : "Guatemala Border"}, "geometry" : {"type" : "Point", "coordinates" : [-89.167, 17.058]}},
+{"type" : "Feature", "properties" : {"name" : "Flores"}, "geometry" : {"type" : "Point", "coordinates" : [-89.902, 16.910]}},
+{"type" : "Feature", "properties" : {"name" : "Guatemala City"}, "geometry" : {"type" : "Point", "coordinates" : [-90.562, 14.626]}},
+{"type" : "Feature", "properties" : {"name" : "Tikal"}, "geometry" : {"type" : "Point", "coordinates" : [-89.633, 17.223]}}
+]
+}
